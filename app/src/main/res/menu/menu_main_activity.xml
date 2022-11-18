@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/viajes"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Mis Viajes"  />
+
+    <item
+        android:id="@+id/viajeactual"
+        android:icon="@drawable/ic_play_circle_outline_black_24dp"
+        android:title="Viaje Actual"  />
+
+</menu>

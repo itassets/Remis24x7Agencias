@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/viajes"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Viajes"  />
+
+    <item
+        android:id="@+id/choferes"
+        android:icon="@drawable/conductor_48"
+        android:title="Choferes"  />
+</menu>

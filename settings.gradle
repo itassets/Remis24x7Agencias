@@ -1,0 +1,2 @@
+rootProject.name='Remis24x7Agencias'
+include ':app'
